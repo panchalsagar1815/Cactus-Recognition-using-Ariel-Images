@@ -1,4 +1,4 @@
-# Cactus-Recognition-using-Ariel
+# Cactus-Recognition-using
 
 #**Project Title: Cactus Recognition using Aerial Images**
 
