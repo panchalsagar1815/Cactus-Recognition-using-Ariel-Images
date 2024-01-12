@@ -1,4 +1,4 @@
-#**Project Title: Cactus Recognition using Aerial Images**
+# **Project Title: Cactus Recognition using Aerial Images**
 
 **Overview:**
 The "Cactus Recognition using Aerial Images" project focuses on developing a sophisticated system to identify and classify cactus plants within satellite images of diverse landscapes. Leveraging advanced techniques in image processing, machine learning, and neural networks, this project contributes to environmental monitoring and conservation efforts.
