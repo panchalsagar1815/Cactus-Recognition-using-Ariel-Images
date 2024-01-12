@@ -9,7 +9,7 @@ The "Cactus Recognition using Aerial Images" project focuses on developing a sop
 
 1. **Data Collection and Cleaning:**
    - Curated a comprehensive dataset comprising high-resolution satellite images capturing various terrains.
-   - Applied data cleaning techniques to eliminate artifacts, noise, and irrelevant information from the images.
+   - Applied data cleaning techniques to eliminate artefacts, noise, and irrelevant information from the images.
    - Ensured the dataset's integrity, enhancing the model's ability to discern the presence of cactus plants accurately.
 
 2. **Data Preprocessing and Dimensionality Reduction:**
