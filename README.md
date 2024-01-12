@@ -1,4 +1,4 @@
-# Cactus-Recognition-using
+# Cactus-Recog
 
 #**Project Title: Cactus Recognition using Aerial Images**
 
