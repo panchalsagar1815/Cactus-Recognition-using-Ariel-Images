@@ -1,4 +1,4 @@
-# Cactus
+
 
 #**Project Title: Cactus Recognition using Aerial Images**
 
